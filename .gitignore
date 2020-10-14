@@ -16,7 +16,6 @@
 /build
 
 # misc
-/assets
 .DS_Store
 *.pem
 
