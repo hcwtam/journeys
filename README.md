@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/hcwtam/journeys">
-    <img src="assets/../src/assets/showcase.png" alt="Logo" width="600">
+    <img src="/assets/showcase.png" alt="Logo" width="600">
   </a>
 
   <h3 align="center">Journeys</h3>
